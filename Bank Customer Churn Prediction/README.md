@@ -90,11 +90,9 @@ Ensure you have Python installed. You can create a virtual environment for this 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-## Contact
-For questions or feedback, please reach out to [your email or contact information].
+
+
 
 ---
 
